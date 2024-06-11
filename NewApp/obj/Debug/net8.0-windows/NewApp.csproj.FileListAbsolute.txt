@@ -1,0 +1,17 @@
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\bin\Debug\net8.0-windows\NewApp.exe
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\bin\Debug\net8.0-windows\NewApp.deps.json
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\bin\Debug\net8.0-windows\NewApp.runtimeconfig.json
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\bin\Debug\net8.0-windows\NewApp.dll
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\bin\Debug\net8.0-windows\NewApp.pdb
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.Form1.resources
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.csproj.GenerateResource.cache
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.AssemblyInfoInputs.cache
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.AssemblyInfo.cs
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.csproj.CoreCompileInputs.cache
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.sourcelink.json
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.dll
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\refint\NewApp.dll
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.pdb
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\NewApp.genruntimeconfig.cache
+C:\Users\darci\Desktop\UAT MS 539\Code\NewApp\obj\Debug\net8.0-windows\ref\NewApp.dll
